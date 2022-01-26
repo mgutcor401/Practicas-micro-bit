@@ -5,6 +5,3 @@ input.onButtonPressed(Button.B, function () {
     radio.sendString(":)")
 })
 radio.setGroup(1)
-basic.forever(function () {
-	
-})
